@@ -1,2 +1,2 @@
 #1/bin/bash
-gcc -e $NAME -o cisfun
+gcc $NAME -o cisfun
