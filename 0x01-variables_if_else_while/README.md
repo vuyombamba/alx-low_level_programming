@@ -4,3 +4,4 @@
 2. Prints the alphabet
 3. Prints alphabets from a to z and A to Z
 4. Prints the alphabet excluding q and e
+5. Prints numbers from 0 to 9
