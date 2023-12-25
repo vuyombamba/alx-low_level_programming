@@ -8,3 +8,4 @@
 6. Prints numbers in character form
 7. Prins alphabets in reverse
 8. Prints numbers of base 16
+9. Prints numbers and separates them with a comma
