@@ -6,3 +6,4 @@
 4. Prints the alphabet excluding q and e
 5. Prints numbers from 0 to 9
 6. Prints numbers in character form
+7. Prins alphabets in reverse
