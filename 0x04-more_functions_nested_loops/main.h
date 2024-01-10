@@ -5,5 +5,6 @@
 
 int _isupper(int c);
 void print_numbers(void);
+int _isdigit(int c);
 
 #endif
