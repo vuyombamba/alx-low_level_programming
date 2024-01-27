@@ -4,3 +4,4 @@
 2. Checks the length of the string
 3. prints a string variable using pointers and puts
 4. pritns a string in reverse
+5. rewrites the string in reverse
