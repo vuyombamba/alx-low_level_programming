@@ -7,3 +7,4 @@
 5. rewrites the string in reverse
 6. Prints every other character in a string
 7. prints the second half of a string
+8. prints elements in an array
