@@ -6,3 +6,4 @@
 4. pritns a string in reverse
 5. rewrites the string in reverse
 6. Prints every other character in a string
+7. prints the second half of a string
