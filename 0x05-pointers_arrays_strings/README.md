@@ -5,3 +5,4 @@
 3. prints a string variable using pointers and puts
 4. pritns a string in reverse
 5. rewrites the string in reverse
+6. Prints every other character in a string
